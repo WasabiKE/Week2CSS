@@ -1,0 +1,9 @@
+body{
+    background-image:url("images/webbackground.avif");
+    scale: 0.85;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+h2{
+    margin: 2cm;
+}
